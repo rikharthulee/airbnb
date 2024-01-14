@@ -1,6 +1,8 @@
 .container {
-  display: inline-grid;
-  grid-auto-columns: 470px;
+  display: grid;
+  grid-auto-columns: 375px, auto; /*Minimum width 375px, scale to window*/ 
+  grid-template-rows: 100px auto 400px 100px;
+  justify-self: center;
   background-color: #2196F3;
   padding: 10px;
 }
