@@ -6,14 +6,16 @@
 }
 
 .header {
-  padding: 10px;
+  justify-content: center;
+  padding-bottom: 20px;
 }
 
 .searchbox {
   height: 54.67px;
   padding-left: 10px;
   border: 1px solid black;
-  border-radius: 12px;
+  border-radius: 15px;
+  box-shadow: 5px 10px;
 }
 
 .navbar {
