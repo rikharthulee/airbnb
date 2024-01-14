@@ -2,18 +2,23 @@
   display: grid;
   grid-auto-columns: 375px, auto; /*Minimum width 375px, scale to window*/ 
   justify-self: center;
+  padding: 14px 24px 0px;
+}
+
+.header {
   padding: 10px;
 }
 
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px 20px;
-  font-size: 30px;
-  text-align: center;
-}
+
 
 .searchbox {
+  height: 54.67px;
+  padding: 10px;
   border: 1px solid black;
   border-radius: 12px;
+}
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
 }
