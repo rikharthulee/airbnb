@@ -9,11 +9,9 @@
   padding: 10px;
 }
 
-
-
 .searchbox {
   height: 54.67px;
-  padding: 10px;
+  padding-left: 10px;
   border: 1px solid black;
   border-radius: 12px;
 }
