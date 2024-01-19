@@ -67,6 +67,10 @@ main img {
 footer {
   display: inline-grid;
   grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+.footer-items {
   text-align: center;
 }
 
