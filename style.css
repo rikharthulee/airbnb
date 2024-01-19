@@ -64,4 +64,10 @@ main img {
   border-radius: 15px;
 }
 
+footer {
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+}
+
 
