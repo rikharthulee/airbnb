@@ -5,7 +5,7 @@
   padding: 14px 24px 0px;
 }
 
-.header {
+header {
   justify-content: center;
   padding-bottom: 20px;
 }
@@ -41,7 +41,7 @@
   border-width: 1px;
 }
 
-.navbar {
+nav {
   display: inline-grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
@@ -50,7 +50,7 @@
   text-align: center;
 }
 
-.navbar img {
+nav img {
   height: 24px;
   width: 24px;
 }
