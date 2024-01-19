@@ -71,7 +71,9 @@ footer {
 }
 
 .footer-items {
-  text-align: center;
+  align-items: center;
 }
 
-
+body {
+  font-family: "Sofia", sans-serif;
+}
